@@ -1,9 +1,7 @@
 ﻿#include <iostream>
 #include <algorithm>
-#include <numbers>
 #include <vector>
 #include <functional>
-#include <cmath>
 
 int main()
 {
