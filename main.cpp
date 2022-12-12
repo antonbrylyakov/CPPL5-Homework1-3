@@ -43,6 +43,7 @@ int main()
     };
 
     // 5. Применяем функции
+    std::cout << "[Выходные данные]: ";
     for (const auto& angle : anglesRad) {
         std::cout << angle << ": ";
         for (const auto& function : functions)
